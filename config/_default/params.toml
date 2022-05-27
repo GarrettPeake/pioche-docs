@@ -12,7 +12,7 @@ description = "Pioche helps you translate less work into more powerful workers"
 ## Open Graph
 images = ["doks.png"]
 ogLocale = "en_US"
-domainTLD = "www.pioche.dev"
+domainTLD = "pioche.dev"
 titleHome = "Pioche.js"
 
 ## JSON-LD

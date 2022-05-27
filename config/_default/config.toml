@@ -1,4 +1,4 @@
-baseurl = "https://www.pioche.dev/"
+baseurl = "https://pioche.dev/"
 canonifyURLs = false
 disableAliases = true
 disableHugoGeneratorInject = true

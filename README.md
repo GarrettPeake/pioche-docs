@@ -10,7 +10,7 @@
 
 ## Website
 
-Check out the [documentation site](https://www.pioche.dev) and getting started by [installing Pioche](https://github.com/GarrettPeake/pioche)
+Check out the [documentation site](https://pioche.dev) and getting started by [installing Pioche](https://github.com/GarrettPeake/pioche)
 
 ## Contributing
 

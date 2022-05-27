@@ -1,7 +1,7 @@
 # Meta Data for SEO
 
 ## Homepage
-title = "Pioche"
+title = "Pioche.js"
 titleSeparator = "-"
 titleAddition = "Less work, better Workers"
 description = "Pioche helps you translate less work into more powerful workers"
@@ -67,7 +67,7 @@ lastMod = false
   flexSearch = true
   darkMode = true
   bootStrapJs = true
-  breadCrumb = false
+  breadCrumb = true
   highLight = true
   kaTex = false
   multilingualMode = false

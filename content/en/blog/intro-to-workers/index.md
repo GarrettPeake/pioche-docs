@@ -10,7 +10,7 @@ images: ["intro-to-workers.jpg"]
 contributors: ["Garrett Peake"]
 ---
 
-![Blog Post Image](intro-to-workers.jpg "An image with the Workers logo and the text Cloudflare Workers")
+![An image with the Cloudflare Workers logo](intro-to-workers.jpg)
 
 ## The Serverless Promise
 

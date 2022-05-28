@@ -7,8 +7,10 @@ lastmod: 2022-05-27T13:28:06-07:00
 draft: false
 weight: 50
 images: ["intro-to-workers.jpg"]
-contributors: []
+contributors: ["Garrett Peake"]
 ---
+
+![Cloudflare Workers](./intro-to-workers.jpg "Workers Logo")
 
 ## The Serverless Promise
 

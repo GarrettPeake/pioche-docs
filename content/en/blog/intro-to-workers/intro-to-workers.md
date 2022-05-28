@@ -10,8 +10,6 @@ images: ["intro-to-workers.jpg"]
 contributors: ["Garrett Peake"]
 ---
 
-![Cloudflare Workers](./intro-to-workers.jpg "Workers Logo")
-
 ## The Serverless Promise
 
 Workers allow you to deploy Javascript code to Cloudflare's 200+ datacenters all around the world. Then whenever someone makes an HTTP request to your assigned `*.workers.dev` or your custom domain, your code will be executed in a V8 instance. (Chrome's JS engine) This happens so fast, it's as if your code was already running in every datacenter around the world. But that's the point, it's only running when needed. You are billed per code invokation and per GBs (Gigabyte second) of compute time with a generous free tier. See their  [billing page](https://developers.cloudflare.com/workers/platform/pricing).
